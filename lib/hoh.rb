@@ -31,8 +31,8 @@
 # }
 
 def naming_system
-  {label: "kingdom",
-    sub_category: "Ph"
+  {label: "Kingdom",
+    sub_category: "Phylum",
   }
   
   
