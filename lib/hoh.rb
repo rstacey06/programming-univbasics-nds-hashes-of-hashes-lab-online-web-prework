@@ -33,9 +33,9 @@
 def naming_system
   { label: "Kingdom",
     sub_category:{ 
-      label "Phylum",
+      label: "Phylum",
       sub_category:{
-        label
+        label: "Class"
       }
   }
   
@@ -44,7 +44,6 @@ def naming_system
   
   # Remember:
   
-  #  Phylum
   #  Class
   #  Order
   #  Family
